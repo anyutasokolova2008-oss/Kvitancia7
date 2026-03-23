@@ -1,0 +1,7 @@
+F:\УП по программированию\пр1\Kvitancia7\Kvitancia7\bin\Debug\Kvitancia7.exe.config
+F:\УП по программированию\пр1\Kvitancia7\Kvitancia7\bin\Debug\Kvitancia7.exe
+F:\УП по программированию\пр1\Kvitancia7\Kvitancia7\bin\Debug\Kvitancia7.pdb
+F:\УП по программированию\пр1\Kvitancia7\Kvitancia7\obj\Debug\Kvitancia7.csproj.AssemblyReference.cache
+F:\УП по программированию\пр1\Kvitancia7\Kvitancia7\obj\Debug\Kvitancia7.csproj.CoreCompileInputs.cache
+F:\УП по программированию\пр1\Kvitancia7\Kvitancia7\obj\Debug\Kvitancia7.exe
+F:\УП по программированию\пр1\Kvitancia7\Kvitancia7\obj\Debug\Kvitancia7.pdb
