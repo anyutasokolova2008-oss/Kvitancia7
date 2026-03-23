@@ -22,5 +22,6 @@ class Program
         Console.WriteLine("Номер: " + kv.Number);
         Console.WriteLine("Дата: " + kv.Date);
         Console.WriteLine("Сумма: " + kv.Sum);
+        Console.WriteLine("------");
     }
 }
